@@ -3257,12 +3257,12 @@ h1.page-title + .tag-cloud-list {
 #page-header #site-subtitle,
 #page-header #scroll-down .scroll-down-effects {
   text-align: center;
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.15);
+  text-shadow: 2px 2px 4px rgba(255,97,0,0.85);
   line-height: 1.5;
 }
 #page-header #site-title {
   margin: 0;
-  color: var(--white);
+  color: var(--green);
   font-size: 1.85em;
 }
 @media screen and (min-width: 768px) {
